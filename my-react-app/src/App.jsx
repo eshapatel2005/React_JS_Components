@@ -10,7 +10,7 @@ function App() {
 const color = "red"
   return (
     <>
-      <div className="app">
+      <div className="txt2">
         hello!!!
       </div>
       <Home color={color} />

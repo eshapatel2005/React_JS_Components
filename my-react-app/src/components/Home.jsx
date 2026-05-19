@@ -1,8 +1,9 @@
 import React from 'react'
 
 function Home({ color }) {
+  console.log("gggggg",color)
   return (
-    <div>Hello Everyone !!!!!</div>
+    <div className='txt1'>Hello Everyone !!!!!</div>
   )
 }
 
